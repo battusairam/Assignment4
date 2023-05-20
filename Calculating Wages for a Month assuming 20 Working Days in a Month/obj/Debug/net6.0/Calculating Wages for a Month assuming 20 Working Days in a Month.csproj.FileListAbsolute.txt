@@ -1,0 +1,15 @@
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\bin\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.exe
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\bin\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.deps.json
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\bin\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.runtimeconfig.json
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\bin\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.dll
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\bin\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.pdb
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.csproj.AssemblyReference.cache
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.AssemblyInfoInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.AssemblyInfo.cs
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.csproj.CoreCompileInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.dll
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\refint\Calculating Wages for a Month assuming 20 Working Days in a Month.dll
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.pdb
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\Calculating Wages for a Month assuming 20 Working Days in a Month.genruntimeconfig.cache
+D:\Bridgelab\RFP\Assignment_4\Calculating Wages for a Month assuming 20 Working Days in a Month\obj\Debug\net6.0\ref\Calculating Wages for a Month assuming 20 Working Days in a Month.dll

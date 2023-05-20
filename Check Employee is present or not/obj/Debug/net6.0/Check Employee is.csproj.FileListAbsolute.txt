@@ -1,0 +1,15 @@
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\bin\Debug\net6.0\Check Employee is.exe
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\bin\Debug\net6.0\Check Employee is.deps.json
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\bin\Debug\net6.0\Check Employee is.runtimeconfig.json
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\bin\Debug\net6.0\Check Employee is.dll
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\bin\Debug\net6.0\Check Employee is.pdb
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.csproj.AssemblyReference.cache
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.AssemblyInfoInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.AssemblyInfo.cs
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.csproj.CoreCompileInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.dll
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\refint\Check Employee is.dll
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.pdb
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\Check Employee is.genruntimeconfig.cache
+D:\Bridgelab\RFP\Assignment_4\Check Employee is\obj\Debug\net6.0\ref\Check Employee is.dll

@@ -1,0 +1,15 @@
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\bin\Debug\net6.0\Solving using Case Statement.exe
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\bin\Debug\net6.0\Solving using Case Statement.deps.json
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\bin\Debug\net6.0\Solving using Case Statement.runtimeconfig.json
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\bin\Debug\net6.0\Solving using Case Statement.dll
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\bin\Debug\net6.0\Solving using Case Statement.pdb
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.csproj.AssemblyReference.cache
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.AssemblyInfoInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.AssemblyInfo.cs
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.csproj.CoreCompileInputs.cache
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.dll
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\refint\Solving using Case Statement.dll
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.pdb
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\Solving using Case Statement.genruntimeconfig.cache
+D:\Bridgelab\RFP\Assignment_4\Solving using Case Statement\obj\Debug\net6.0\ref\Solving using Case Statement.dll
